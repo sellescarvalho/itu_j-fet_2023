@@ -1,0 +1,18 @@
+launched power per channel (dBm):0
+span length (km):100
+fiber loss (dB/km):0.2
+fiber nonlinearity:1.22
+fiber dispersion:16.0E-24
+dispersion compensation ratio:1.0
+constant of Planck:6.626E-34
+center frequency:193.0E+12
+noise figure of optical amplifier (dB):6
+power saturation of optical amplifier (dBm):16
+noise factor model parameter A1:100.0
+noise factor model parameter A2:4.0
+optical noise bandwidth:1
+type of test of QoT (0, para SNR, ou 1, para BER):0
+type de FEC (0 = 7%, 1 = 20%, 2 = 28% ou outro valor = sem FEC):0
+guard banda:6.25E+9
+active ASE:true
+active NLI:true

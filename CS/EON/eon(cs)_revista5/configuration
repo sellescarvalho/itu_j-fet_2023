@@ -1,0 +1,9 @@
+generate failures:false
+simultaneous failures:false
+minimum number of failures:0
+multiplicative factor:1
+activate QoTN:true
+activate QoTO:true
+measuring metrics:BlockingProbability,BandwidthBlockingProbability,ExternalFragmentation,RelativeFragmentation,SpectrumUtilization,Reallocation,QoT,EnergyConsumption
+resource class:0
+regenerators nodes:0
